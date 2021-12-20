@@ -1,0 +1,2 @@
+defaultjoinmessage: "**{user}** a rejoint invité par **{Inviter}** (**{inv}** invitations)"
+defaultleavemessage: "**{user}** a quitté, Invité par **{inviter}**"
